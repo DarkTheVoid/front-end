@@ -1,0 +1,32 @@
+@media(max-width: 576px){
+    .principalIMG{
+        background-image: url(imagens/Celular.jpg) ;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+@media(min-width: 768px){
+    .principalIMG{
+        background-image: url(imagens/Tablet.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+@media(min-width: 992px){
+    .principalIMG{
+        background-image: url(imagens/Desktop.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+@media(min-width: 1200px){
+    .principalIMG{
+        background-image: url(imagens/Televisão.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
